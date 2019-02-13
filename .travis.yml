@@ -6,5 +6,5 @@ matrix:
      - clang
      - gcc
     script :
-     -gcc-otesttest.c//wecanusegccinsteadofclangtoo
+     -gcc -o test test.c//wecanusegccinsteadofclangtoo
      -./test
