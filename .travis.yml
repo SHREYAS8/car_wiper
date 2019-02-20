@@ -4,7 +4,7 @@ matrix:
     sudo : false #onlyforfasterbuilds
     compiler :
      - clang
-     - gcc-8
+     - gcc-6
     script :
      - gcc -o test main.c
      - ./test
