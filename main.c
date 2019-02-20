@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-//#include <conio.h>
 
-/*int eng();
+int eng();
 void wiper();
 
 int main()
@@ -24,10 +23,4 @@ int main()
       printf("\nSystem is OFF\n");
  }
     return 0;
-}*/
-
-int main()
-{
- printf("hello world");
- return 0;
 }
